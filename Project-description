@@ -1,0 +1,20 @@
+Set Up a WordPress Instance for Your Organization 
+
+Project agenda: You are hired as a cloud architect in a global media company. You have been asked to set up a WordPress instance to publish blogs for your company per the defined specifications.
+
+Description: Your organization publishes blogs and provides documentation services for other businesses and technologies. You have been asked to:
+●	Set up a live WordPress instance to publish blogs
+●	Set up a WordPress instance that can be used for development and testing purposes so that any work done on this instance will not impact the live blog
+●	Configure the WordPress instance for development and testing purposes, which will be available only for the business hours (9 AM–6 PM)
+●	Monitor the health of the WordPress instance 
+
+Tools required: AWS account, Wordpress plugins: WP Offload media, Wordpress file manager.
+
+*******************************
+*******************************
+Solution:
+the solution is mentioned in the Writeup_aws.docx file and described in Project-architecture.
+All the detailed procedure is updated on the project-aws.docx
+******************************
+******************************
+
