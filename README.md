@@ -21,7 +21,7 @@ The primary objectives of the project are as follows:
 
 
 3. Detailed Project Solution
-
+<img src="architecture-illustration.png" alt="ODF Photo" width="1000"/>
  
 
 3.1 AWS Service Selection and Architecture
